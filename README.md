@@ -5,7 +5,7 @@
 
 Sentiment Analysis with R using tidy principle - Persentation at Lagos R User Group 
 
-<img src="images/tidyverse.jpg" width = "400">
+<img src="images/tidyverse.jpg" width = "420">
 
 ### Highlight
 - Scrapping Tweets using rtweet
